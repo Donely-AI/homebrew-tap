@@ -6,13 +6,13 @@ This is the official Homebrew tap for [Donely CLI](https://github.com/Donely-AI/
 
 ```bash
 brew tap donely-ai/tap
-brew install donely-cli
+brew install --cask donely-cli
 ```
 
 Or install directly:
 
 ```bash
-brew install donely-ai/tap/donely-cli
+brew install --cask donely-ai/tap/donely-cli
 ```
 
 ## Usage
