@@ -1,6 +1,6 @@
 cask "donely-cli" do
   version "0.1.0"
-  sha256 "bbded15d83b437c58aac939c8fd17f2a25d1ce5d598dcbfeea29113d05e909c1"
+  sha256 "ea945f2aa7a3d881184467de7461aacd452bfdb3a4b0ca7c13f9e280f6f3eafe"
 
   url "https://github.com/Donely-AI/donely-releases/releases/download/v#{version}/donely"
   name "Donely CLI"
